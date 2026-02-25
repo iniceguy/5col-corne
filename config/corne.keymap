@@ -14,7 +14,9 @@
 };
 
 / {
-    chosen { zzmk,matrix-transform = &five_column_transform; };
+    chosen {
+        zmk,matrix-transform = &five_column_transform;
+    };
 
     keymap {
         compatible = "zmk,keymap";
