@@ -67,7 +67,7 @@
 &kp ESCAPE  &none  &kp UP  &none  &kp LA(F4)        &kp MINUS  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp ASTERISK  
 &kp PRINTSCREEN  &kp LEFT_ARROW  &kp DOWN  &kp RIGHT  &to 1        &kp PLUS  &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp SLASH
 &kp LC(Z)  &kp LC(X)  &kp LC(C)  &kp LC(V)  &kp LEFT_GUI        &kp EQUAL  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp DOT            
-&to 4  &to 3  &to 0        &mt RETURN SPACE  &kp KP_NUMBER_0  &kp DEL
+&to 4  &to 3  &to 0        &mt SPACE RETURN  &kp KP_NUMBER_0  &kp DEL
             >;
         };
 
