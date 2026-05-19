@@ -54,7 +54,7 @@
         Symbols {
             display-name = "Symbols";
             bindings = <
-&kp ESCAPE  &kp SEMICOLON  &kp LS(SEMICOLON)  &kp GRAVE  &kp TILDE        &kp NON_US_BACKSLASH  &none  &none  &none  &none             
+&kp LA(TAB)  &kp SEMICOLON  &kp LS(SEMICOLON)  &kp GRAVE  &kp TILDE        &kp NON_US_BACKSLASH  &none  &none  &none  &none             
 &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR  &kp PERCENT        &kp CARET  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  
 &to 3  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE        &none  &none  &none  &none &none                   
 &trans  &trans  &trans        &trans  &trans  &trans
